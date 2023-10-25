@@ -134,4 +134,8 @@ dist
 test/
 cache/
 lib/
+dist/
 test_package/
+database/
+*js
+dist/app.js
